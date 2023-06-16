@@ -11,3 +11,12 @@ chmod u+x acp
 ```bash
 ./acp
 ```
+or 
+## Move it to the bin folder
+```bash
+mv acp /bin
+```
+## Then run with just
+```bash
+acp
+```
